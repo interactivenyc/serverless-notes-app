@@ -1,3 +1,11 @@
+This project can be seen running at this URL:
+
+http://inyc-notes-client-app.s3-website-us-east-1.amazonaws.com/
+
+It's from a tutorial you can find here:
+
+https://serverless-stack.com
+
 # Serverless Node.js Starter
 
 A Serverless starter that adds ES7 syntax, serverless-offline, environment variables, and unit test support. Part of the [Serverless Stack](http://serverless-stack.com) guide.
